@@ -8,47 +8,47 @@ Criar uma página pessoal em HTML utilizando a estrutura básica e as principais
 ## Checklist para Construção do index.html
 
 ### Preparando para iniciar
-- [ ] Fork desse repositório para sua conta pessoal do gitub
-- [ ] Conectar o seu repositório a conta do [vercel](https://vercel.com)
-- [ ] Abrir o visual studio online no seu repositório
+- [ x ] Fork desse repositório para sua conta pessoal do gitub
+- [ x ] Conectar o seu repositório a conta do [vercel](https://vercel.com)
+- [ x ] Abrir o visual studio online no seu repositório
 
 ### 1. Estrutura Básica do HTML
-- [ ] Criar arquivo `index.html` na raiz do projeto
-- [ ] Adicionar a declaração `<!DOCTYPE html>` no início do arquivo
-- [ ] Criar a tag `<html>` com o atributo `lang="pt-BR"`
-- [ ] Adicionar a seção `<head>` dentro da tag `<html>`
-- [ ] Adicionar a seção `<body>` dentro da tag `<html>`
+- [ x ] Criar arquivo `index.html` na raiz do projeto
+- [ x ] Adicionar a declaração `<!DOCTYPE html>` no início do arquivo
+- [ x ] Criar a tag `<html>` com o atributo `lang="pt-BR"`
+- [ x ] Adicionar a seção `<head>` dentro da tag `<html>`
+- [ x ] Adicionar a seção `<body>` dentro da tag `<html>`
 
 ### 2. Configuração do Head
-- [ ] Adicionar tag `<meta charset="UTF-8">` para definir a codificação de caracteres
-- [ ] Adicionar tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">` para responsividade
-- [ ] Adicionar tag `<title>` com um título para sua página pessoal (ex: "Minha Página Pessoal")
+- [ x ] Adicionar tag `<meta charset="UTF-8">` para definir a codificação de caracteres
+- [ x ] Adicionar tag `<meta name="viewport" content="width=device-width, initial-scale=1.0">` para responsividade
+- [ x ] Adicionar tag `<title>` com um título para sua página pessoal (ex: "Minha Página Pessoal")
 
 ### 3. Conteúdo do Body - Cabeçalho da Página
-- [ ] Adicionar tag `<h1>` com seu nome completo
-- [ ] Adicionar tag `<h2>` com uma breve descrição sobre você (ex: "Estudante de Desenvolvimento Web")
+- [ x ] Adicionar tag `<h1>` com seu nome completo
+- [ x ] Adicionar tag `<h2>` com uma breve descrição sobre você (ex: "Estudante de Desenvolvimento Web")
 
 ### 4. Seção de Links Pessoais
-- [ ] Criar uma `<div>` com identificação para links pessoais
-- [ ] Adicionar tag `<h3>` com o título "Redes Sociais" ou "Contatos Profissionais"
-- [ ] Adicionar tag `<p>` com o texto "LinkedIn: " seguido de um `<span>` ou link para seu perfil
-- [ ] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
+- [ x ] Criar uma `<div>` com identificação para links pessoais
+- [ x ] Adicionar tag `<h3>` com o título "Redes Sociais" ou "Contatos Profissionais"
+- [ x ] Adicionar tag `<p>` com o texto "LinkedIn: " seguido de um `<span>` ou link para seu perfil
+- [ x ] Adicionar tag `<p>` com o texto "GitHub: " seguido de um `<span>` ou link para seu perfil
 
 ### 5. Seção de Estudos Atuais
-- [ ] Criar uma `<div>` com identificação para estudos atuais
-- [ ] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
-- [ ] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
-- [ ] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
+- [ x ] Criar uma `<div>` com identificação para estudos atuais
+- [ x ] Adicionar tag `<h3>` com o título "O que estou estudando atualmente"
+- [ x ] Adicionar tags `<p>` descrevendo o curso e disciplinas que está cursando
+- [ x ] Opcional: Usar tags `<h4>`, `<h5>` ou `<h6>` para subtítulos de diferentes disciplinas
 
 ### 6. Seção de Tecnologias Conhecidas
-- [ ] Criar uma `<div>` com identificação para tecnologias conhecidas
-- [ ] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
-- [ ] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
-- [ ] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
+- [ x ] Criar uma `<div>` com identificação para tecnologias conhecidas
+- [ x ] Adicionar tag `<h3>` com o título "Tecnologias que já conheço"
+- [ x ] Adicionar tags `<p>` listando as tecnologias de desenvolvimento de aplicativos
+- [ x ] Opcional: Usar `<span>` para destacar nomes de tecnologias específicas
 
 ### 7. Revisão Final
-- [ ] Verificar se todas as tags foram fechadas corretamente
-- [ ] Verificar se a indentação está organizada e legível
+- [ x ] Verificar se todas as tags foram fechadas corretamente
+- [ x ] Verificar se a indentação está organizada e legível
 - [ ] Abrir o arquivo `index.html` no navegador para visualizar o resultado
 - [ ] Validar se todo o conteúdo está sendo exibido corretamente
 
