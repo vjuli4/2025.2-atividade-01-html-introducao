@@ -1,10 +1,16 @@
 # 2025.2-atividade-01-html-introducao
+
 Atividade prática para construir um arquivo index.html com recursos básicos
 
 ## Objetivo
 Criar uma página pessoal em HTML utilizando a estrutura básica e as principais tags HTML.
 
 ## Checklist para Construção do index.html
+
+### Preparando para iniciar
+- [ ] Fork desse repositório para sua conta pessoal do gitub
+- [ ] Conectar o seu repositório a conta do [vercel](https://vercel.com)
+- [ ] Abrir o visual studio online no seu repositório
 
 ### 1. Estrutura Básica do HTML
 - [ ] Criar arquivo `index.html` na raiz do projeto
