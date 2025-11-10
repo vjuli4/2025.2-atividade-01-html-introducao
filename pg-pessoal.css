@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 16px;
+    color: #333333;
+    text-align: left;
+}
+
+h1{
+    font-size: 36px;
+    color: #1a1a1a;
+    text-align: center;
+}
+h2{
+    font-size: 28px;
+    color: #2c3e50;
+    text-align: center;
+}
+h3{
+    font-size: 24px;
+    color: #34495e;
+    text-align: left;
+}
+h4{
+    font-size: 20px;
+    color: #555555;
+}
+h5{
+    font-size: 18px;
+    color: #666666;
+}
+h6{
+    font-size: 16px;
+    color: #777777;
+}
+
+p{
+    font-size: 14px;
+    color: #444444;
+    text-align: justify;
+}
+div{
+    text-align: left;
+}
+span{
+    color: #0066cc;
+    font-size: 14px;
+}
+-----------
+.destaque{
+   color: #e74c3c;
+    font-size: 16px; 
+}
+
+.secao{
+    text-align: center;
+}
+
+.link-social{
+    color: #16a085;
+    font-size: 15px;
+}
+
+.tecnologia{
+    color: #8e44ad;
+    font-size: 14px;
+}
+
+.rede-social{
+    display: grid;
+    flex-grow: inherit;
+    text-align: right;
+    font-size: 36px;
+    color: pink;
+    border: solid pink 2px;
+    border-radius: 4px;
+}
+
+.name{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 48px;
+}
